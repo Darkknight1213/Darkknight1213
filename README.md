@@ -14,7 +14,7 @@
 - 🤝 Open to collabs on **MERN apps, backend-heavy tools, or serious side projects**
 - ✍️ Planning to write **no-BS dev blogs** soon (learned the hard way, served raw)
 - 🤚 Always happy to talk code, bugs, systems, or bouncing back after fails
-- 📧 Reach me: **riyazahamedff@gmail.com**
+- 📧 Portfolio: [View Here](https://riyaz-porfolio.vercel.app/)
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1xZLv-WP8Sj5juktqvmeLhPa8jL6f-RJ9/view?usp=sharing)
 - ✨ Fun Fact: I like building **systems** (not just software, but habits & routines too)
 
